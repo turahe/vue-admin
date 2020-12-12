@@ -1,6 +1,8 @@
 module.exports = {
   root: true,
   env: {
+    browser: true,
+    jquery: true,
     node: true
   },
   extends: [
