@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "vue-admin",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,6 +13,11 @@
     "@dicebear/avatars": "^4.4.0",
     "@dicebear/avatars-male-sprites": "^4.4.0",
     "@fortawesome/fontawesome-free": "^5.15.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/vue-fontawesome": "^3.0.0-3",
     "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "chart.js": "^2.9.4",

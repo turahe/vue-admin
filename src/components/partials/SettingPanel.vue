@@ -15,37 +15,37 @@
       </div>
       <div class="demo-screen-wrapper">
         <a href="#" class="demo-thumb-image" id="theme-light-switch">
-          <img src="../../assets/images/screenshots/default.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/default.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/default-two.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/default-two.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image" id="theme-dark-switch">
-          <img src="../../assets/images/screenshots/default-dark.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/default-dark.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/analytics-dasboard.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/analytics-dasboard.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/Marketing-dashboard.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/Marketing-dashboard.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/crm-dashboard.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/crm-dashboard.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/modern-dashboard.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/modern-dashboard.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/e-commerce_dashboard.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/e-commerce_dashboard.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/finance-dashboard.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/finance-dashboard.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/classic-dashboard.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/classic-dashboard.jpg" alt="demo image">
         </a>
         <a href="#" class="demo-thumb-image">
-          <img src="../../assets/images/screenshots/horizontal-screens.jpg" alt="demo image">
+          <img src="@/assets/images/screenshots/horizontal-screens.jpg" alt="demo image">
         </a>
       </div>
     </div>
